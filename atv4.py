@@ -1,4 +1,4 @@
-## Gabreil Cordeiro
+## Gabriel Cordeiro
 ## 4. Parâmetro opcional
 ## Crie uma função chamada cumprimentar que receba um nome e um parâmetro opcional
 ## saudacao (padrão: "Olá"). A função deve exibir a saudação seguida do nome.
